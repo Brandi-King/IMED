@@ -1,0 +1,32 @@
+body {
+    background-color: #E6CCFF; 
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+button {
+    background-color: #4B0082; 
+    color: white;
+    padding: 12px 25px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#thumbsUp {
+    display: none;              
+    width: 120px;
+    margin: 20px auto;          
+    display: block;             
+}
